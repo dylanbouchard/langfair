@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/cvs-health/langfair/main/assets/images/langfair-logo.png" />
 </p>
 
-# LangFair: Use-Case Level LLM Bias and Fairness Assessments
+## LangFair: Use-Case Level LLM Bias and Fairness Assessments
 [![Build Status](https://github.com/cvs-health/langfair/actions/workflows/ci.yaml/badge.svg)](https://github.com/cvs-health/langfair/actions)
 [![Documentation Status](https://img.shields.io/badge/docs-latest-blue.svg)](https://cvs-health.github.io/langfair/latest/index.html)
 [![PyPI version](https://badge.fury.io/py/langfair.svg)](https://pypi.org/project/langfair/)
