@@ -61,7 +61,7 @@ results = await auto_object.evaluate()
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cvs-health/langfair/main/assets/images/autoeval_process.png" />
+  <img src="./assets/images/autoeval_process.png" />
 </p>
 
 
